@@ -2,7 +2,8 @@
 
 A macOS menu bar plugin that displays your Claude Code API usage limits in real-time using [SwiftBar](https://github.com/swiftbar/SwiftBar).
 
-![Menu Bar Screenshot](screenshots/menubar.png)
+<img width="260" height="366" alt="image" src="https://github.com/user-attachments/assets/0186fef5-9857-48dc-a213-1ff46225f9fc" />
+
 
 ## Features
 
